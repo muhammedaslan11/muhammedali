@@ -54,7 +54,7 @@ export const metadata: Metadata = {
     locale: "en_US",
     images: [
       {
-        url: "/medias/muhammed-ali-aslan.png",
+        url: "/medias/muhammedali.png",
         width: 1200,
         height: 630,
         alt: "Muhammed Ali Aslan — Frontend Developer & Media",
@@ -66,7 +66,7 @@ export const metadata: Metadata = {
     title: "Muhammed Ali Aslan — Frontend Developer & Media",
     description:
       "Frontend Developer with 3.5 years of experience building modern web experiences with React, Next.js, TypeScript, and TailwindCSS.",
-    images: ["/medias/muhammed-ali-aslan.png"],
+    images: ["/medias/muhammedali.png"],
     creator: "@muhammedaaslan",
   },
   robots: {
@@ -97,7 +97,7 @@ const jsonLd = {
   "@type": "Person",
   name: "Muhammed Ali Aslan",
   url: BASE_URL,
-  image: `${BASE_URL}/medias/muhammed-ali-aslan.png`,
+  image: `${BASE_URL}/medias/muhammedali.png`,
   jobTitle: "Frontend Developer",
   description:
     "Frontend Developer with 3.5 years of experience in React, Next.js, TypeScript, and TailwindCSS. Also experienced in media production and digital content.",
