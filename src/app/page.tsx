@@ -71,7 +71,7 @@ export default function Home() {
           {/* Hero image with name overlay */}
           <div className="relative w-full rounded-[8px] overflow-hidden">
             <Image
-              src="/medias/muhammed-ali-aslan.png"
+              src="/medias/muhammedali.png"
               alt={info.name + " " + info.surname}
               width={600}
               height={750}
@@ -82,8 +82,8 @@ export default function Home() {
             {/* Gradient + text overlay */}
             <div className="absolute inset-x-0 bottom-0 h-80 bg-gradient-to-t from-black via-black/60 to-transparent" />
             <div className="absolute inset-x-0 bottom-0 flex flex-col items-center pb-6">
-              <h1 className="text-[clamp(1.4rem,7vw,2.25rem)] font-black text-white uppercase tracking-wide leading-tight">
-                {info.name} <br /> {info.surname}
+              <h1 className="text-[clamp(1.1rem,5vw,2.25rem)] font-black text-white uppercase tracking-wide leading-tight px-4 text-center">
+                {info.name} {info.surname}
               </h1>
               <p className="text-zinc-400 text-[11px] tracking-[0.25em] uppercase mt-2">
                 {info.roleTitle}

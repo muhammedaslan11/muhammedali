@@ -80,9 +80,9 @@ export const metadata: Metadata = {
     },
   },
   icons: {
-    icon: "/medias/favicon.jpg",
-    shortcut: "/medias/favicon.jpg",
-    apple: "/medias/favicon.jpg",
+    icon: "/medias/favicon.png",
+    shortcut: "/medias/favicon.png",
+    apple: "/medias/favicon.png",
   },
   alternates: {
     canonical: BASE_URL,
@@ -103,7 +103,7 @@ const jsonLd = {
     "Frontend Developer with 3.5 years of experience in React, Next.js, TypeScript, and TailwindCSS. Also experienced in media production and digital content.",
   worksFor: {
     "@type": "Organization",
-    name: "Glomli Technology",
+    name: "glomil Technology",
     url: "https://www.glomil.com",
   },
   address: {
