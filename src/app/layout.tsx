@@ -25,14 +25,14 @@ const BASE_URL = "https://muhammedaslan.net";
 export const metadata: Metadata = {
   metadataBase: new URL(BASE_URL),
   title: {
-    default: "Muhammed Ali Aslan — Frontend Developer & Media",
+    default: "Muhammed Ali Aslan — Software Developer & Media",
     template: "%s | Muhammed Ali Aslan",
   },
   description:
-    "Frontend Developer with 3.5 years of experience building modern web experiences with React, Next.js, TypeScript, and TailwindCSS. Also active in media production, branding, and digital content.",
+    "Software Developer with 3.5 years of experience building modern web experiences with React, Next.js, TypeScript, and TailwindCSS. Also active in media production, branding, and digital content.",
   keywords: [
     "Muhammed Ali Aslan",
-    "Frontend Developer",
+    "Software Developer",
     "React Developer",
     "Next.js Developer",
     "TypeScript",
@@ -48,24 +48,24 @@ export const metadata: Metadata = {
     type: "website",
     url: BASE_URL,
     siteName: "Muhammed Ali Aslan",
-    title: "Muhammed Ali Aslan — Frontend Developer & Media",
+    title: "Muhammed Ali Aslan — Software Developer & Media",
     description:
-      "Frontend Developer with 3.5 years of experience building modern web experiences with React, Next.js, TypeScript, and TailwindCSS.",
+      "Software Developer with 3.5 years of experience building modern web experiences with React, Next.js, TypeScript, and TailwindCSS.",
     locale: "en_US",
     images: [
       {
         url: "/medias/muhammedali.png",
         width: 1200,
         height: 630,
-        alt: "Muhammed Ali Aslan — Frontend Developer & Media",
+        alt: "Muhammed Ali Aslan — Software Developer & Media",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Muhammed Ali Aslan — Frontend Developer & Media",
+    title: "Muhammed Ali Aslan — Software Developer & Media",
     description:
-      "Frontend Developer with 3.5 years of experience building modern web experiences with React, Next.js, TypeScript, and TailwindCSS.",
+      "Software Developer with 3.5 years of experience building modern web experiences with React, Next.js, TypeScript, and TailwindCSS.",
     images: ["/medias/muhammedali.png"],
     creator: "@muhammedaaslan",
   },
@@ -98,13 +98,13 @@ const jsonLd = {
   name: "Muhammed Ali Aslan",
   url: BASE_URL,
   image: `${BASE_URL}/medias/muhammedali.png`,
-  jobTitle: "Frontend Developer",
+  jobTitle: "Software Developer",
   description:
-    "Frontend Developer with 3.5 years of experience in React, Next.js, TypeScript, and TailwindCSS. Also experienced in media production and digital content.",
+    "Software Developer with 3.5 years of experience in React, Next.js, TypeScript, and TailwindCSS. Also experienced in media production and digital content.",
   worksFor: {
     "@type": "Organization",
-    name: "glomil Technology",
-    url: "https://www.glomil.com",
+    name: "GLOMİL Technology",
+    url: "https://www.GLOMİL.com",
   },
   address: {
     "@type": "PostalAddress",

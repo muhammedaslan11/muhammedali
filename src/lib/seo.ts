@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 
 const BASE_URL = "https://muhammedaslan.net";
-const DEFAULT_OG_IMAGE = "/medias/muhammedali.png";
+const DEFAULT_OG_IMAGE = "/medias/muhammedali.png?v=2";
 
 interface PageSEOProps {
   title: string;
@@ -27,7 +27,7 @@ export function generatePageMetadata({
     description,
     keywords: [
       "Muhammed Ali Aslan",
-      "Frontend Developer",
+      "Software Developer",
       "React",
       "Next.js",
       ...keywords,
@@ -59,7 +59,7 @@ export function generatePersonSchema() {
     name: "Muhammed Ali Aslan",
     url: BASE_URL,
     image: `${BASE_URL}${DEFAULT_OG_IMAGE}`,
-    jobTitle: "Frontend Developer",
+    jobTitle: "Software Developer",
     email: "muhammedaslanwork@gmail.com",
     address: {
       "@type": "PostalAddress",

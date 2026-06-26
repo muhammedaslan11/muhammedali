@@ -47,27 +47,27 @@
     }
   ],
   "overview": [
-    "Frontend Developer with 3.5 years of experience at glomil Technology, creating user-friendly, visually engaging, and performance-focused web experiences.",
+    "Software Developer with 3.5 years of experience at GLOMİL Technology, creating user-friendly, visually engaging, and performance-focused web experiences.",
     "Hands-on with HTML, CSS, JavaScript, TypeScript, React, Next.js, Bootstrap, and TailwindCSS, focused on building clean, maintainable, and responsive interfaces.",
-    "Experienced not only in frontend development but also in media and digital content production, with a strong eye for visual design, branding, and content presentation.",
+    "Experienced not only in software development but also in media and digital content production, with a strong eye for visual design, branding, and content presentation.",
     "Adaptable teammate with a solution-oriented mindset, delivering digital products that balance user needs, visual quality, and business goals."
   ],
   "experience": [
     {
-      "role": "Frontend Developer",
-      "company": "glomil Technology — Sarıyer, Istanbul",
+      "role": "Software Developer",
+      "company": "GLOMİL Technology — Sarıyer, Istanbul",
       "period": "2023 — Present",
-      "logo": "/medias/glomil.png",
+      "logo": "/medias/GLOMİL.png",
       "summary": "Lead and build modern web experiences for national-scale initiatives (GoTürkiye, Culture Route Festival, AKM, Health Türkiye), delivering responsive UIs, email templates, and content workflows with React, Next.js, TypeScript, Bootstrap, and TailwindCSS.",
-      "link": "https://www.glomil.com"
+      "link": "https://www.GLOMİL.com"
     },
     {
-      "role": "Frontend Developer Intern",
-      "company": "glomil Technology",
+      "role": "Software Developer Intern",
+      "company": "GLOMİL Technology",
       "period": "2022 — 2023",
-      "logo": "/medias/glomil.png",
-      "summary": "Supported software and content development, contributing to UI improvements and internal tools while learning modern frontend practices and collaborative workflows.",
-      "link": "https://www.glomil.com"
+      "logo": "/medias/GLOMİL.png",
+      "summary": "Supported software and content development, contributing to UI improvements and internal tools while learning modern software development practices and collaborative workflows.",
+      "link": "https://www.GLOMİL.com"
     }
   ],
   "collaboratedProjects": [
@@ -75,7 +75,7 @@
       "title": "GoTürkiye — Official Travel Guide",
       "description": "Developed email templates and content workflows for Türkiye's official tourism platform under the Ministry of Culture and Tourism.",
       "year": "2024",
-      "subtitle": "Ministry of Culture and Tourism - Glomil",
+      "subtitle": "Ministry of Culture and Tourism - GLOMİL",
       "logo": "/medias/goturkiye.svg",
       "tags": [
         "Email Templates",
@@ -88,7 +88,7 @@
       "title": "Culture Route Festival 2024",
       "description": "Built web-based software and email systems to enhance event communication for national festivals, partnered with the Ministry of Culture and Tourism.",
       "year": "2024",
-      "subtitle": "Ministry of Culture and Tourism - Glomil",
+      "subtitle": "Ministry of Culture and Tourism - GLOMİL",
       "logo": "/medias/kyf.png",
       "tags": [
         "Next.js",
@@ -101,7 +101,7 @@
       "title": "Atatürk Cultural Center (AKM)",
       "description": "Created digital content and email templates to elevate the cultural center's online presence in collaboration with the Ministry of Culture and Tourism.",
       "year": "2023",
-      "subtitle": "Ministry of Culture and Tourism - Glomil",
+      "subtitle": "Ministry of Culture and Tourism - GLOMİL",
       "logo": "/medias/akm.svg",
       "tags": [
         "React",
@@ -114,7 +114,7 @@
       "title": "Health Türkiye",
       "description": "Contributed to software and content development to strengthen global visibility and user experience for the platform under the Ministry of Health.",
       "year": "2023",
-      "subtitle": "Ministry of Health - Glomil",
+      "subtitle": "Ministry of Health - GLOMİL",
       "logo": "/medias/health-turkiye.svg",
       "tags": [
         "Responsive UI",
