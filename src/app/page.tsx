@@ -1,4 +1,3 @@
-import Image from "next/image";
 import config from "@/data/config.json";
 import ExpandableCard from "./components/ExpandableCard";
 import ReferenceCard from "./components/ReferenceCard";
@@ -70,14 +69,13 @@ export default function Home() {
 
           {/* Hero image with name overlay */}
           <div className="relative w-full rounded-[8px] overflow-hidden">
-            <Image
+            <img
               src="/medias/muhammedali.png"
               alt={info.name + " " + info.surname}
               width={600}
               height={750}
               style={{ width: "100%", height: "auto" }}
               className="object-cover object-top"
-              priority
             />
             {/* Gradient + text overlay */}
             <div className="absolute inset-x-0 bottom-0 h-80 bg-gradient-to-t from-black via-black/60 to-transparent" />

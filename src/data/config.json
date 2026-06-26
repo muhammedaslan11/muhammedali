@@ -33,12 +33,12 @@
   "links": [
     {
       "label": "English Cert.",
-      "href": "/medias/english-certificate.pdf",
+      "href": "/medias/EnglishCertificate.pdf",
       "target": "_blank"
     },
     {
       "label": "CV",
-      "href": "/medias/muhammed-ali-aslan.pdf",
+      "href": "/medias/MuhammedAliAslan.pdf",
       "target": "_blank"
     },
     {
@@ -57,7 +57,7 @@
       "role": "Software Developer",
       "company": "GLOMİL Technology — Sarıyer, Istanbul",
       "period": "2023 — Present",
-      "logo": "/medias/GLOMİL.png",
+      "logo": "/medias/glomil.png",
       "summary": "Lead and build modern web experiences for national-scale initiatives (GoTürkiye, Culture Route Festival, AKM, Health Türkiye), delivering responsive UIs, email templates, and content workflows with React, Next.js, TypeScript, Bootstrap, and TailwindCSS.",
       "link": "https://www.GLOMİL.com"
     },
@@ -65,7 +65,7 @@
       "role": "Software Developer Intern",
       "company": "GLOMİL Technology",
       "period": "2022 — 2023",
-      "logo": "/medias/GLOMİL.png",
+      "logo": "/medias/glomil.png",
       "summary": "Supported software and content development, contributing to UI improvements and internal tools while learning modern software development practices and collaborative workflows.",
       "link": "https://www.GLOMİL.com"
     }
